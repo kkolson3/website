@@ -1,0 +1,227 @@
+/* screen - homepage */
+
+.homepage {
+  align-items: flex-start;
+  background-color: #1b1c1d;
+  border: 1px none;
+  display: flex;
+  height: 2819px;
+  width: 1280px;
+}
+
+.homepage .overlap-group-container {
+  align-items: center;
+  background-image: url(../img/rectangle-15.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 2819px;
+  padding: 32px 0;
+  width: 1280px;
+  z-index: 1;
+}
+
+.homepage .overlap-group3 {
+  height: 906px;
+  margin-top: 35px;
+  position: relative;
+  width: 1280px;
+}
+
+.homepage .rectangle-2 {
+  height: 242px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 664px;
+  width: 262px;
+}
+
+.homepage .rectangle-4 {
+  height: 242px;
+  left: 797px;
+  object-fit: cover;
+  position: absolute;
+  top: 664px;
+  width: 423px;
+}
+
+.homepage .rectangle-3 {
+  height: 242px;
+  left: 322px;
+  position: absolute;
+  top: 664px;
+  width: 475px;
+}
+
+.homepage .name {
+  color: #dbe8ec;
+  font-family: var(--font-family-gruppo);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 298px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 280px;
+}
+
+.homepage .line-2 {
+  height: 1px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 84px;
+  width: 1160px;
+}
+
+.homepage .rectangle-7 {
+  border: 1px solid;
+  border-color: var(--white);
+  height: 906px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 1160px;
+}
+
+.homepage .betta-fish-png-photo-room-1 {
+  height: 324px;
+  left: 979px;
+  mix-blend-mode: color-dodge;
+  position: absolute;
+  top: 129px;
+  width: 301px;
+}
+
+.homepage .betta-fish-png-photo-room-1-1 {
+  height: 325px;
+  left: 0;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 360px;
+  width: 302px;
+}
+
+.homepage .overlap-group2 {
+  align-items: flex-end;
+  background-color: #191e21;
+  display: flex;
+  height: 562px;
+  margin-top: 318px;
+  min-width: 1280px;
+  padding: 91px 159px;
+}
+
+.homepage .ellipse-5 {
+  height: 379px;
+  object-fit: cover;
+  width: 379px;
+}
+
+.homepage .overlap-group4 {
+  align-items: flex-end;
+  background-image: url(../img/ellipse-3.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 151px;
+  margin-right: 1.0px;
+  margin-top: 295px;
+  min-height: 639px;
+  padding: 43px 98px;
+  width: 639px;
+}
+
+.homepage .overlap-group5 {
+  height: 205px;
+  margin-top: 174px;
+  position: relative;
+  width: 442px;
+}
+
+.homepage .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-17@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 69px;
+  left: 187px;
+  min-width: 69px;
+  padding: 0 8px;
+  position: absolute;
+  top: 136px;
+}
+
+.homepage .httpswwwlinkedin {
+  color: transparent;
+  cursor: pointer;
+  font-family: var(--font-family-gruppo);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  text-decoration: underline;
+  width: 53px;
+}
+
+.homepage .get-in-touch-kaitlynolsoncomcastnet {
+  color: var(--white);
+  font-family: var(--font-family-gruppo);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 178px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 442px;
+}
+
+.homepage .rectangle-11 {
+  background-color: var(--black);
+  height: 23px;
+  margin-right: 100px;
+  width: 49px;
+}
+
+.homepage .rectangle-16 {
+  background-color: #1c1c1cbd;
+  border-radius: 10px;
+  height: 76px;
+  left: 228px;
+  mix-blend-mode: darken;
+  position: fixed;
+  top: 70px;
+  width: 824px;
+  z-index: 2;
+}
+
+.homepage .frame-1 {
+  align-items: center;
+  display: flex;
+  gap: 233px;
+  justify-content: center;
+  left: 275px;
+  position: fixed;
+  top: 98px;
+  width: fit-content;
+  z-index: 3;
+}
+
+.homepage .frame-1-item {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
